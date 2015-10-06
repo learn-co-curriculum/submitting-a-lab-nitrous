@@ -30,13 +30,13 @@ To stage your changes for a commit, we use `git add`. To stage all changes for a
 
 `git add .`
 
-![1](https://dl.dropboxusercontent.com/s/55myv88uo7gu24d/2015-09-30%20at%208.34%20PM.png)
+![1](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_git_basics.jpg)
 
 Now that all the changes are staged, you can create a new commit, a new version of the code with your changes, with `git commit`. When we make a commit, we need to provide Git with a message describing the work done. Since you've solved a lab, "Solution" is a great commit message. You can commit all changes with a commit message by using `git commit -am "Message"`.
 
 `git commit -am "My first commit"`
 
-![1](https://dl.dropboxusercontent.com/s/9y3zt153pvaabh0/2015-05-03%20at%209.14%20PM.png)
+![1](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_my_first_commit.png)
 
 After this you have a new version of your code in a new git commit on your local copy of the lab. But you got to get your solution code to Learn, how does that work?
 
@@ -50,7 +50,7 @@ You can think of `git push` as the opposite of `git clone`.
 
 To push your local code to GitHub, just type `git push` in Terminal.
 
-![1](https://dl.dropboxusercontent.com/s/7qta395mpnmst7x/2015-05-03%20at%209.15%20PM.png)
+![1](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_git_push.png)
 
 The code you wrote to solve the lab is now up on GitHub, stored on your forked version of the original lab repository.
 
@@ -130,7 +130,7 @@ learn submit
 
 That's all it takes, you can run `learn submit` from any lab directory and your solution will be submitted to Learn for review.
 
-![learn submit](http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit-cli-osx.gif)
+![learn submit](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_learn_submit_gif.gif)
 
 You'll notice that on Learn, the light labelled "Pull Request" will turn green when your code has been submitted.
 
