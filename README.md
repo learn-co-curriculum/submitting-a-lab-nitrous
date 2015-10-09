@@ -158,7 +158,7 @@ The `learn submit` and the Learn CLI automate all the low-level `git` interactio
 
 ## Conclusion
 
-ith `learn open` and `learn submit` you are ready to work on Learn. You now know how those commands work and interact with `git`, which is great, but you should feel comfortable not using `git` right now, it's low-level and everything is automated by the `learn` CLI.
+With `learn open` and `learn submit` you are ready to work on Learn. You now know how those commands work and interact with `git`, which is great, but you should feel comfortable not using `git` right now, it's low-level and everything is automated by the `learn` CLI.
 
 **The only three commands you need to know to work on Learn are:**
 
