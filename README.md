@@ -94,11 +94,11 @@ The entire point of our workflow is to prepare you for that - to be in the top 1
 
 #### Creating a Pull Request to Submit Your Solution
 
-For the purposes of Learn, we only require a GitHub Pull Request as a mechanism to inform Learn that you're done with a lab and you're to submit it, have your solution automatically tested so you get credit for solving the lab, and providing a mechanism for the community to review and comment on your solution.
+For the purposes of Learn, we only require a GitHub Pull Request as a mechanism to inform Learn that you're done with a lab and wish to submit it, to have your solution automatically tested so you get credit for solving the lab, and to provide a mechanism for the community to review and comment on your solution.
 
-Here's how to open a Pull Request form GitHub to submit your solution to a lab you've forked and have pushed your solution commit to.
+Here's how to open a Pull Request from GitHub to submit your solution to a lab you've forked and have pushed your solution commit to.
 
-You will open your fork by clicking "View" in GitHub from Learn or just opening your forked repo on GitHub directly. From your forked repository on GitHub, you will click the green Pull Request Button.
+You will open your fork by clicking "View" in GitHub from Learn, or by opening your forked repo on GitHub directly. From your forked repository on GitHub, you will click the green Pull Request Button.
 
 <img width="100%" height="auto" src="https://dl.dropboxusercontent.com/s/oj85qs5u079i8ub/2015-10-02%20at%201.14%20AM.png" alt="Ironboard Labs Step 4">
 
