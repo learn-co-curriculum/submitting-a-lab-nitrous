@@ -74,9 +74,9 @@ A Pull Request is a feature of GitHub that allows developers to collaborate on c
 
 #### Pull Requests are Worth Over a Billion Dollars. Here's Why.
 
-Imagine working on a project with 1000s of people across the planet that you've never met. And then imagine that this spontaneous collaboration was all happening at the exact same time, for free, without anyone ever asking anyone to do anything. That's open source software. The Ruby on Rails framework is written by 4,083 people. Linux has had over 12,000 people contribute to the free operating system. Open Source is the entire world working together to build free, superior software. It's magic.
+Imagine working on a project with 1000s of people across the planet whom you've never met. And then imagine that this spontaneous collaboration was all happening at the exact same time, for free, without anyone ever asking anyone to do anything. That's open source software. The Ruby on Rails framework is written by 4,083 people. Linux has had over 12,000 people contribute to the free operating system. Open Source is the entire world working together to build free, superior software. It's magic.
 
-Literally thousands of people that have never met, who share no bond or  common language beyond a love of code, all over the planet, are working together every single second. How is that even possible? How is it not chaos? How are people not breaking things, stepping on each other's toe, doing redundant unneeded work, and just creating a giant unmanageable mess?
+Literally thousands of people who have never met, who share no bond or  common language beyond a love of code, all over the planet, are working together every single second. How is that even possible? How is it not chaos? How are people not breaking things, stepping on each other's toes, doing redundant unneeded work, and just creating a giant unmanageable mess?
 
 The answer to what makes this massively open, spontaneous, free, and world-wide collaboration possible, is GitHub. Specifically, it is GitHub Pull Requests.
 
