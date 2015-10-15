@@ -132,7 +132,7 @@ We don't force you to learn everything at once, but we also won't ever shy away 
 
 ### 1. Submit a lab with `learn submit`
 
-Once you've written the code that solves a lab, and confirmed that your solution is correct using the `learn` command, you then need to submit your solution to Learn so that you can get credit for completion and move on to the next lesson.
+Once you've written the code that solves a lab, and confirmed that your solution is correct using the `learn` or `learn test` command, you then need to submit your solution to Learn so that you can get credit for completion and move on to the next lesson.
 
 In order to submit your solution to Learn, from the lab's directory in your console, you will just run:
 
@@ -163,7 +163,7 @@ With `learn open` and `learn submit` you are ready to work on Learn. You now kno
 **The only three commands you need to know to work on Learn are:**
 
 **1. `learn open` to fork and clone your lab locally so you can work on it.**
-**2. `learn test` to run your local tests.**
+**2. `learn` or `learn test` to run your local tests.**
 **3. `learn submit` to submit your solution.**
 
 You are now ready to practice the Learn workflow with your first lab! Congratulations!
