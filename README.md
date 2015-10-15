@@ -118,7 +118,7 @@ Once the Pull Request is created, you're done and Learn will update the lesson p
 
 ### Conclusion of `git` workflow
 
-The `git` CLI workflow might seem tedious and unnecessary to learning to program. People call `git`, GitHub, and Version Control an "incidental complexity" to learning how to code and insist that you can learn to code without ever even needing to learn about `git`, GitHub, or Version Control. We're not sure, but who knows.
+The `git` CLI workflow might seem tedious and unnecessary to learning to program. People call `git`, GitHub, and Version Control an "incidental complexity" to learning how to code and insist that you can learn to code without ever even needing to learn about these. We're not sure, but who knows.
 
 What we do know, what we are absolutely sure about, is that there is no way you're ever becoming a professional software developer without `git` and GitHub.
 
