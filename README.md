@@ -18,7 +18,7 @@ Once you've opened your lab locally, solved it, and your tests are passing, you 
 
 With the `git` Learn workflow, you'll need to stage your changes, commit them locally, push them to GitHub, and finally open a Pull Request. You don't need to fully understand everything because if you just execute the commands we describe in order, it'll work. But, let's take a second and briefly talk about what's actually going on when you run `git add .`, `git commit -am `, and `git push`.
 
-### 1. Staging and Commiting Your Solution with `git add` and `git commit`
+### 1. Staging and Committing Your Solution with `git add` and `git commit`
 
 Remember that `git` was invented to allow developers to create discrete, isolated, yet shareable, versions of their code. That's Version Control. The first step in telling `git` what changes to your code you want to be included as a new version or "commit" is called "Staging".
 
