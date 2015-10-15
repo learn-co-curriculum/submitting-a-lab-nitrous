@@ -5,7 +5,7 @@ languages:
 resources:
 ---
 
-# Submitting A Lab Nitrous
+# Submitting a Lab with Nitrous
 
 **Note: This is an informational README. You just have to read and conceptualize these workflows. Don't try to execute these commands yet. You will have a chance to practice the entire workflow using `learn` very shortly.**
 
